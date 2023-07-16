@@ -1,4 +1,4 @@
-package com.edtech.qnotemate.Configuration;
+package com.edtech.qnotemate.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
